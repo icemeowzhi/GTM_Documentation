@@ -48,4 +48,22 @@
             </toc-element>
         </toc-element>
     </toc-element>
+    <toc-element topic="Object-Hierarchy.md">
+        <toc-element topic="ObjProjectBrowser.md">
+            <toc-element topic="ObjSearchOption.md"/>
+        </toc-element>
+        <toc-element topic="ObjPermissionGroupList.md">
+            <toc-element topic="ObjPermissionGroup.md"/>
+        </toc-element>
+        <toc-element topic="ObjPersonalMessage.md">
+            <toc-element topic="ObjPMDialog.md"/>
+        </toc-element>
+        <toc-element topic="ObjUser.md">
+        </toc-element>
+        <toc-element topic="ObjSite.md">
+            <toc-element topic="ObjSiteConfig.md"/>
+            <toc-element topic="ObjAnnouncementEntry.md"/>
+        </toc-element>
+        <toc-element topic="ObjProject.md"/>
+    </toc-element>
 </instance-profile>
