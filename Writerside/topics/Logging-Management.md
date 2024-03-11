@@ -1,3 +1,5 @@
 # Logging Management
 
-Start typing here...
+记录管理
+
+在 GTM 中，用户的每个操作都是可以溯源的。记录管理可以查看用户对项目进行的所有操作，并支持分类查找。
